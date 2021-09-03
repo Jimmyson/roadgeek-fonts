@@ -1,5 +1,6 @@
-StartChar: uni2073
-Encoding: 8307 8307 88
+StartChar: uni00B3
+Encoding: 179 179 88
+AltUni2: 002073.ffffffff.0
 Width: 327
 VWidth: 1754
 Flags: W
